@@ -13,15 +13,25 @@ Understanding these helps a lot when you start working with servers or debugging
  Directory | What It’s Used For 
  
  `/`    | The **root directory** — everything in Linux begins here. 
+ 
  `/home`| Each user gets their own folder here. For example, my files go in `/home/<username>`. 
+ 
  `/etc` | Stores system configuration files (like network settings, users, and startup scripts). 
+ 
  `/bin` | Contains basic Linux commands like `ls`, `cp`, `mv`, etc. 
+ 
  `/usr` | Stands for "user programs" — installed applications and libraries live here. 
+ 
  `/var` | Stores variable data like logs and cache files.
+ 
  `/tmp` | Temporary files that get deleted after reboot. 
+ 
  `/dev` | Represents hardware devices — for example, `/dev/sda1` is your hard drive. 
+ 
  `/proc`| A virtual directory that provides details about running processes and system information. 
+ 
  `/lib` | Shared system libraries that help programs run. 
+ 
  `/boot`| Files needed to boot the system — like the Linux kernel. 
 
 
